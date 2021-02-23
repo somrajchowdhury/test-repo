@@ -4,3 +4,5 @@ Different file formats:
 2. json
 3. xml
 4. txt
+5. zip
+6. mp3
